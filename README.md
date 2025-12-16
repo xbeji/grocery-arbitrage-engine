@@ -41,7 +41,7 @@ grocery-arbitrage-engine/
 # ⚙️ Installation & Setup
 ```
 1. Clone the Repository
-git clone [https://github.com/yourusername/grocery-arbitrage-engine.git](https://github.com/yourusername/grocery-arbitrage-engine.git)
+git clone https://github.com/xbeji/grocery-arbitrage-engine.git
 cd grocery-arbitrage-engine
 ```
 
