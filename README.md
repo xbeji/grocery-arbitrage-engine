@@ -88,7 +88,7 @@ This will open a graph showing the "Tipping Point" where the strategy shifts.
 
 The model minimizes $Z$ (Total Cost):
 
-```$$Minimize \ Z = \sum (P_{ij} \times X_{ij}) + \sum (C_j \times Y_j)$$```
+$$Minimize \ Z = \sum (P_{ij} \times X_{ij}) + \sum (C_j \times Y_j)$$
 
 Where:
 
