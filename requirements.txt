@@ -1,0 +1,4 @@
+firebase-admin
+pulp
+pandas
+matplotlib
